@@ -55,7 +55,7 @@ Os resultados são registrados no **Prefect Cloud**, permitindo **monitoramento 
 1️⃣ **Clone o repositório**:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/stock-analysis-workflow.git
+git clone https://github.com/peedrop/worflow.git
 cd stock-analysis-workflow
 ```
 
